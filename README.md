@@ -3,7 +3,7 @@ Written by Nathaniel Thurston and based on ideas of William Thurston, `evert` wa
 
 This fork tries to "simplify" the original implementation by keeping only first-order differential data.
 
-It comes with a Youtube video.
+It comes with a [Youtube video](https://youtu.be/MAJkn3TDMRE).
 
 `evert-cuda.cu` generates the geometry of the eversion (as a list of triangles) and renders it to a PPM image (via path tracing).
 
