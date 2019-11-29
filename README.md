@@ -10,3 +10,9 @@ It comes with a [Youtube video](https://youtu.be/MAJkn3TDMRE).
 `evert-cli.cu` generates the geometry of the eversion (as a list of triangles) and prints it out to the console.
 
 You can find out more about `evert` at the Geometry Center's [website](http://www.geom.uiuc.edu/docs/outreach/oi/).
+
+![evert-cuda](00.jpg)
+
+![evert-cuda](01.jpg)
+
+![evert-cli](0a.jpg)
