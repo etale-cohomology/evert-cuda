@@ -1,9 +1,9 @@
 This is a CUDA port of [evert](http://www.geom.uiuc.edu/docs/outreach/oi/software.html), a C++ program that turns the sphere inside out.
 Written by Nathaniel Thurston and based on ideas of William Thurston, `evert` was used for the movie [Outside In](https://www.youtube.com/watch?v=sKqt6e7EcCs).
 
-This fork tries to "simplify" the original implementation by keeping only first-order differential data.
+This fork comes with a [Youtube video](https://youtu.be/MAJkn3TDMRE).
 
-It comes with a [Youtube video](https://youtu.be/MAJkn3TDMRE).
+It tries to "simplify" the original implementation by keeping only first-order differential data.
 
 `evert-cuda.cu` generates the geometry of the eversion (as a list of triangles) and renders it to a PPM image (via path tracing).
 
