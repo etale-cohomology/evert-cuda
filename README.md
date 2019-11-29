@@ -5,9 +5,9 @@ This fork comes with a [Youtube video](https://youtu.be/MAJkn3TDMRE).
 
 It tries to "simplify" the original implementation by keeping only first-order differential data.
 
-`evert-cuda.cu` generates the geometry of the eversion (as a list of triangles) and renders it to a PPM image (via path tracing).
+`evert-cuda.cu` generates the geometry of the eversion (as an array of triangles) and renders it to a PPM image (via path tracing).
 
-`evert-cli.cu` generates the geometry of the eversion (as a list of triangles) and prints it out to the console.
+`evert-cli.cu` generates the geometry of the eversion (as an array of triangles) and prints it out to the console.
 
 You can find out more about `evert` at the Geometry Center's [website](http://www.geom.uiuc.edu/docs/outreach/oi/).
 
