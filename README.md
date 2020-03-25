@@ -15,4 +15,4 @@ You can find out more about `evert` at the Geometry Center's [website](http://ww
 
 ![evert-cuda](01.jpg)
 
-![evert-cli](0a.jpg)
+![evert-cli](02.jpg)
