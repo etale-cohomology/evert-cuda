@@ -7,7 +7,7 @@
 // GPU general data!
 #define EV_NGPUS     2
 #define EV_GPU_MAIN  1
-#define EV_IMG_DIR   "."  // "/media/tmp"  // "."
+#define EV_IMG_DIR   "."  // "/mnt/tmp"  // "."
 #define EV_EPSILON   0.001f
 #define EV_RGB_BG    0x080808
 #define EV_NLIGHTS   6  // The number of 2-faces of a cube!
